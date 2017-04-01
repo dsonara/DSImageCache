@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DSImageCache_Example' do
+  pod 'DSImageCache', :path => '../'
+
+  target 'DSImageCache_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
