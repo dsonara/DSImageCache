@@ -1,0 +1,16 @@
+PODS:
+  - DSImageCache (0.1.0)
+
+DEPENDENCIES:
+  - DSImageCache (from `../`)
+
+EXTERNAL SOURCES:
+  DSImageCache:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DSImageCache: 9f1fd44729d5c9540d4e62e93baaac7beadaaf7d
+
+PODFILE CHECKSUM: 03563a69c75715176dda9a2acc0864c67ee67781
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,22 @@
+{
+  "name": "DSImageCache",
+  "version": "0.1.0",
+  "summary": "A short description of DSImageCache.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dsonara/DSImageCache",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dsonara": "dsonara@mobiquityinc.com"
+  },
+  "source": {
+    "git": "https://github.com/dsonara/DSImageCache.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DSImageCache/Classes/**/*"
+}
