@@ -1,0 +1,6 @@
+framework module DSImageCache {
+  umbrella header "DSImageCache-umbrella.h"
+
+  export *
+  module * { export * }
+}
